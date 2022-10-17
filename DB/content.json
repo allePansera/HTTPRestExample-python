@@ -1,0 +1,68 @@
+[
+    {
+        "uuid": "device1",
+        "type": "HUMIDITY_SENSOR",
+        "softwareVersion": "8.2.9",
+        "manufacturer": "FOXCOMM"
+    },
+    {
+        "uuid": "device9",
+        "type": "HUMIDITY_SENSOR",
+        "softwareVersion": "6.2.2",
+        "manufacturer": "FOXCOMM"
+    },
+    {
+        "uuid": "device43",
+        "type": "DEMO_SENSOR",
+        "softwareVersion": "8.3.7",
+        "manufacturer": "FOXCOMM"
+    },
+    {
+        "uuid": "device17",
+        "type": "HUMIDITY_SENSOR",
+        "softwareVersion": "9.3.9",
+        "manufacturer": "TEAXS INSTRUMENT"
+    },
+    {
+        "uuid": "device34",
+        "type": "HUMIDITY_SENSOR",
+        "softwareVersion": "0.4.8",
+        "manufacturer": "BOSCH"
+    },
+    {
+        "uuid": "device27",
+        "type": "HUMIDITY_SENSOR",
+        "softwareVersion": "9.2.7",
+        "manufacturer": "HUAWEI"
+    },
+    {
+        "uuid": "device18",
+        "type": "HUMIDITY_SENSOR",
+        "softwareVersion": "1.3.9",
+        "manufacturer": "TEAXS INSTRUMENT"
+    },
+    {
+        "uuid": "device30",
+        "type": "TEMPERATURE_SENSOR",
+        "softwareVersion": "1.4.7",
+        "manufacturer": "TEAXS INSTRUMENT"
+    },
+    {
+        "uuid": "device48",
+        "type": "DEMO_SENSOR",
+        "softwareVersion": "5.0.2",
+        "manufacturer": "TEAXS INSTRUMENT"
+    },
+    {
+        "uuid": "device6",
+        "type": "DEMO_SENSOR",
+        "softwareVersion": "6.1.3",
+        "manufacturer": "BOSCH"
+    },
+    {
+        "uuid": "device1000",
+        "type": "HUMIDITY_SENSOR",
+        "softwareVersion": "1.11.20",
+        "manufacturer": "TOSHIBA"
+    }
+]
