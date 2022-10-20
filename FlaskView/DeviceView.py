@@ -29,7 +29,7 @@ class DeviceView(FlaskView):
                     return Response(status=409, mimetype=None,
                                     content_type="application/json")
                 else:
-                    headers = {"location": f'http://172.0.0.1:{8081}/api/device/{deviceCreated[0].uuid}'}
+                    headers = {"location": f'http://127.0.0.1:{8081}/api/device/{deviceCreated[0].uuid}'}
                     return Response(status=201, headers=headers, mimetype=None,
                                     content_type="application/json")
             else:
